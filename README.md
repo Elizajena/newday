@@ -1,0 +1,2 @@
+# newday
+a new repository
